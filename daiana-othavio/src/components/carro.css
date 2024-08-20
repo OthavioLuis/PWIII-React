@@ -1,0 +1,7 @@
+#carro {
+    background-color: #89ff;
+    border-radius: 10px;
+    backdrop-filter: blur(14px);
+    padding: 20px;
+    width: 300px;
+}
